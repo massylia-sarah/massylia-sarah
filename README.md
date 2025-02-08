@@ -1,6 +1,6 @@
 - 👋 Hi, I’m massy
 - I want to improve my scripting skills, to write better codes, learn cyber security concepts (I want to learn everything about cyber security).
-- I would like create a website.
+- I would like to create a website.
 - How to reach me : aityahiasarahmassylia@gmail.com 
 
 <!---
