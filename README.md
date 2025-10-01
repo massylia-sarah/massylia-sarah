@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m massy<br>I want to improve my scripting skills, to write better codes, learn cyber security concepts (I want to learn everything about cyber security).<br>I would like to create a websites.
+👋 Hi, I’m massy<br>I want to improve my scripting skills, to write better codes, learn cyber security concepts (I want to learn everything about cyber security).<br>I would like to create many websites.
 
 
 ## 🌐 Socials:
